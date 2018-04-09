@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d9bdf893b85ec474cbdfdb6dac6a07e5
+timeCreated: 1499958033
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - trackedObj: {instanceID: 0}
+  - rigEye: {instanceID: 0}
+  - light: {instanceID: 0}
+  - humSound: {instanceID: 0}
+  - clickDown: {instanceID: 0}
+  - clickUp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
